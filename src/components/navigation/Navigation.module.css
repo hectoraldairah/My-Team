@@ -1,0 +1,9 @@
+.bgPattern {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    bottom: 0;
+    right: 0;
+    background: url('../../assets/bg-pattern-about-1-mobile-nav-1.svg') no-repeat right bottom;
+    margin-right: -100px;
+}
