@@ -75,6 +75,9 @@
       "pre-commit": "lint-staged"
     }
   },
+  "resolutions": {
+    "xstate": "4.10.0"
+  },
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": [
       "prettier --write",
